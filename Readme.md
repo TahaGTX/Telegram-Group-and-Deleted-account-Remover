@@ -39,6 +39,7 @@ Once executed, your Telegram account will contain **only real person-to-person c
 * Chat history **cannot be recovered**
 * Telegram does **not provide undo**
 
+---
 
 ## 🔧 Installation
 
@@ -137,6 +138,7 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it.
 
 ---
+
 
 
 
