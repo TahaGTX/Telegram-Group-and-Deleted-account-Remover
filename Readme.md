@@ -27,6 +27,18 @@ Once executed, your Telegram account will contain **only real person-to-person c
 * Telethon library
 
 ---
+## ⚠️ WARNING (READ THIS CAREFULLY)
+
+🚨 **This action is IRREVERSIBLE**
+
+* You will permanently:
+
+  * Leave all groups and channels
+  * Delete chats with bots
+  * Remove deleted accounts
+* Chat history **cannot be recovered**
+* Telegram does **not provide undo**
+
 
 ## 🔧 Installation
 
@@ -93,17 +105,6 @@ Telegram-Remove-Groups-and%20-Deleted-accounts.py
 
 ---
 
-## ⚠️ WARNING (READ THIS CAREFULLY)
-
-🚨 **This action is IRREVERSIBLE**
-
-* You will permanently:
-
-  * Leave all groups and channels
-  * Delete chats with bots
-  * Remove deleted accounts
-* Chat history **cannot be recovered**
-* Telegram does **not provide undo**
 
 👉 **Backup important data before running**
 
@@ -136,6 +137,7 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it.
 
 ---
+
 
 
 
