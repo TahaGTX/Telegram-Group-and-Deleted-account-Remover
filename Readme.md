@@ -77,7 +77,7 @@ phone = "+YOUR_PHONE_NUMBER"
 Run the script:
 
 ```bash
-python main.py
+Telegram-Remove-Groups-and%20-Deleted-accounts.py
 ```
 
 ### First Run
@@ -136,5 +136,6 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it.
 
 ---
+
 
 
