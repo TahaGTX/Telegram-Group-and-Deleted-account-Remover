@@ -33,9 +33,9 @@ Once executed, your Telegram account will contain **only real person-to-person c
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/telegram-chat-cleaner.git
-cd telegram-chat-cleaner
-```
+git clone https://github.com/TahaGTX/Telegram-Group-and-Deleted-account-Remover.git
+
+``
 
 ### 2️⃣ Install dependencies
 
@@ -136,4 +136,5 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it.
 
 ---
+
 
