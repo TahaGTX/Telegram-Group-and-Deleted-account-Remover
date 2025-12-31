@@ -35,7 +35,7 @@ Once executed, your Telegram account will contain **only real person-to-person c
 ```bash
 git clone https://github.com/TahaGTX/Telegram-Group-and-Deleted-account-Remover.git
 
-``
+```
 
 ### 2️⃣ Install dependencies
 
