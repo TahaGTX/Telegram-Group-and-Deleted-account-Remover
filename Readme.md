@@ -19,28 +19,6 @@ This script will:
 
 Once executed, your Telegram account will contain **only real person-to-person chats**.
 
----
-
-## 🧠 How It Works
-
-The script:
-
-1. Logs into your Telegram account using your API credentials
-2. Iterates through **all dialogs** using `iter_dialogs()`
-3. Identifies the chat type:
-
-   * Keeps chats where:
-
-     * The entity is a real `User`
-     * The account is **not deleted**
-     * The account is **not a bot**
-   * Deletes everything else
-4. Cleans the account in one run
-
-The logic is intentionally strict to ensure **maximum cleanup**.
-
----
-
 ## 📦 Requirements
 
 * Python **3.10+** (tested with **3.14**)
@@ -158,3 +136,4 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it.
 
 ---
+
